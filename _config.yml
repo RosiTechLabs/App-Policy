@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll) settings for the App-Policy site. Built by play-store/make-site.py.
+title: App policies
+description: Privacy policies and terms for our Android apps
+theme: jekyll-theme-minimal
