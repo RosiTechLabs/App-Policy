@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Health Track"
+title: "Kalvy"
 ---
 
-# Health Track
+# Kalvy
 
 An offline health tracker for Android: food, exercise, weight, body, sleep and habits. No account, no ads, and your
 data stays on your phone.

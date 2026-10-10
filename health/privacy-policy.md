@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Health Track Privacy Policy"
+title: "Kalvy Privacy Policy"
 ---
 
 # Privacy Policy
@@ -9,14 +9,14 @@ Last updated: 9 October 2026
 
 ## The short version
 
-- **Health Track works completely offline.** The app has no permission to use the internet, so it cannot send your data anywhere.
+- **Kalvy works completely offline.** The app has no permission to use the internet, so it cannot send your data anywhere.
 - **Everything you enter stays on your phone.** There is no account, no sign-in, no cloud sync, no ads, no analytics and no tracking.
 - **We never receive your health data.** We can't see it, sell it or share it, because it never reaches us.
 - Your data leaves your phone only when **you** move it: a backup file you save, a report image you save, or an email you choose to send us.
 
 ## Who we are
 
-Health Track is made by Rosi Tech Labs, an independent app developer ("we", "us"). You can reach us at [rositech104@gmail.com](mailto:rositech104@gmail.com).
+Kalvy is made by Rosi Tech Labs, an independent app developer ("we", "us"). You can reach us at [rositech104@gmail.com](mailto:rositech104@gmail.com).
 
 ## What the app keeps on your phone
 
@@ -80,7 +80,7 @@ Because we never receive your app data, there is nothing for us to delete on our
 
 ## Children
 
-Health Track is meant for adults (18 and over). It is not designed for children.
+Kalvy is meant for adults (18 and over). It is not designed for children.
 
 ## Your rights
 

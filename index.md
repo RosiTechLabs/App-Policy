@@ -7,7 +7,7 @@ title: "App policies"
 
 Privacy policies and terms for our Android apps.
 
-## Health Track
+## Kalvy
 
 - [Privacy Policy](health/privacy-policy.html)
 - [Terms of Use](health/terms-of-use.html)

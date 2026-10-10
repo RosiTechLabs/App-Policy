@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Health Track Terms of Use"
+title: "Kalvy Terms of Use"
 ---
 
 # Terms of Use
 
 Last updated: 9 October 2026
 
-These terms are an agreement between you and Rosi Tech Labs ("we", "us"), the developer of Health Track. By using the app you agree to them. If you don't agree, please don't use the app.
+These terms are an agreement between you and Rosi Tech Labs ("we", "us"), the developer of Kalvy. By using the app you agree to them. If you don't agree, please don't use the app.
 
 ## 1. Who can use the app
 
@@ -15,7 +15,7 @@ You must be 18 or older.
 
 ## 2. Not medical advice
 
-Health Track helps you track food, activity, sleep and your body. **It is not a medical device** and does not diagnose, treat, cure or prevent any disease or condition.
+Kalvy helps you track food, activity, sleep and your body. **It is not a medical device** and does not diagnose, treat, cure or prevent any disease or condition.
 
 - Calorie and nutrition values, exercise burn, goals, scores and coach tips are **estimates**. They come from published formulas, food tables, our own recipe estimates and what you log, so they can be wrong.
 - Don't use the app instead of advice from a doctor, a registered dietitian or another qualified professional.
