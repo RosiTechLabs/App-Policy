@@ -32,7 +32,7 @@ Android may also back up your progress to your own Google account, so it comes b
 While the game is in testing, it sends small play events over an encrypted connection (HTTPS) to a Google Sheet that only we can open:
 
 - **A tester code:** 5 random letters made on your phone the first time you open the game. It is shown at the bottom of Settings. It links the events of one installation; reinstalling the game makes a new one. It is not your name, your phone number, your Google account, your advertising ID or your phone's hardware ID.
-- **Play events:** which pond you played, where you tapped on the pond and the time between taps, how many drops you used, whether you won, how long a try took, which help you used (hints, boosters, extra drops, test ads), coins earned and spent, buttons you tapped on menus, settings you changed, whether you allowed notifications, the daily reminder's time and whether it was shown, whether you opened the game from the reminder, the screen you were on when you left the game, and the day number since you installed the game.
+- **Play events:** which pond you played, where you tapped on the pond and the time between taps, how many drops you used, whether you won, how long a try took, which help you used (hints, boosters, extra drops, free help), coins earned and spent, buttons you tapped on menus, settings you changed, whether you allowed notifications, the daily reminder's time and whether it was shown, whether you opened the game from the reminder, the screen you were on when you left the game, and the day number since you installed the game.
 - **About your phone:** phone model, Android version, screen size and refresh rate, memory size, number of processor cores, graphics chip, the language and country chosen in your phone's settings, your time zone, and the game's version.
 - **How smoothly the game runs:** frames per second, how many frames were slow, how long the game took to start, and how much memory it used.
 - **Time:** your phone's local time of each event.
@@ -68,9 +68,9 @@ The Share button opens your phone's own share panel with a short text about your
 
 Ripple Bloom is made for people aged 13 and over, not for children, and does not knowingly collect data from children under 13.
 
-## Coins and test ads
+## Coins and free help
 
-Coins are earned by playing and spent only inside the game. There are no purchases. The "test ad" screens are placeholders: no ad is loaded and no advertising company receives anything.
+Coins are earned by playing and spent only inside the game. There are no purchases. The "Free help (test)" and "Bonus drops (test)" buttons show a short wait and then give the reward. They are not ads: nothing is loaded from the internet and no advertising company receives anything.
 
 ## Changes
 
