@@ -5,7 +5,7 @@ title: "Kalvy Terms of Use"
 
 # Terms of Use
 
-Last updated: 9 October 2026
+Last updated: 7 November 2026
 
 These terms are an agreement between you and Rosi Tech Labs ("we", "us"), the developer of Kalvy. By using the app you agree to them. If you don't agree, please don't use the app.
 
@@ -40,7 +40,7 @@ Please don't copy, resell, reverse-engineer or modify the app, or try to get aro
 
 ## 6. Food and exercise data
 
-Food values come from the U.S. Department of Agriculture's FoodData Central and from our own estimates for typical recipes (marked "Estimate*"). Exercise burn uses the Compendium of Physical Activities. Real values vary with the recipe, the portion and the person.
+Food values come from the U.S. Department of Agriculture's FoodData Central and from our own estimates for typical recipes (marked "Estimate*"). Some estimates are worked from ingredient values in two other public tables: McCance and Widdowson's Composition of Foods Integrated Dataset (CoFID), Public Health England 2021, which contains public sector information licensed under the Open Government Licence v3.0; and the ANSES Ciqual French food composition table, 2020 (Licence Ouverte / Open Licence). No endorsement of the app by these bodies is implied. Exercise burn uses the Compendium of Physical Activities. Real values vary with the recipe, the portion and the person.
 
 ## 7. No warranty
 
